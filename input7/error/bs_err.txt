@@ -1,0 +1,7 @@
+Exception in thread "Thread-0" java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at app.BootStrapMain$CLIWorker.run(BootStrapMain.java:32)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+05:26:47 - Already have port 1200
+05:26:50 - Already have port 1300
+05:26:52 - Already have port 1400

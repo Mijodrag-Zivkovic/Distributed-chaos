@@ -1,0 +1,155 @@
+03:51:34 - Starting servent [localhost|1500]
+03:51:34 - Pausing for 15000 ms
+03:51:49 - My info: [localhost|1500]
+03:51:49 - Neighbors:
+03:51:49 - 1100 1200 1300 1400 1600 1700 
+03:51:49 - Sve u redu sa komsijama
+03:51:49 - Pausing for 20000 ms
+03:51:57 - dobili smo fractal id update od 1100 za index 0
+03:52:01 - dobili smo fractal id update od 1200 za index 1
+03:52:04 - dobili smo fractal id update od 1300 za index 2
+03:52:04 - dodajem nule svima
+03:52:04 - FractalId lista na kraju update-a: 
+03:52:04 - 00 - 1100
+03:52:04 - 10 - 1200
+03:52:04 - 20 - 1300
+03:52:07 - dobili smo fractal id update od 1400 za index 3
+03:52:09 - Pausing for 30000 ms
+03:52:09 - start startovan lol
+03:52:09 - last fractal Id 1
+03:52:09 - moj fractal id je 02
+03:52:09 - moj fractal index je 4
+03:52:09 - necu biti idle--------------------------------
+03:52:09 - Helper 2
+03:52:09 - Zadnji sam u subfraktalu -------------------------------
+03:52:09 - FractalId lista na kraju starta: 
+03:52:09 - 00 - 1100
+03:52:09 - 10 - 1200
+03:52:09 - 20 - 1300
+03:52:09 - 01 - 1400
+03:52:09 - 02 - 1500
+03:52:11 - Dobio nove koordinate od 1100
+03:52:11 - X = 50
+03:52:11 - Y = 225
+03:52:11 - X = 0
+03:52:11 - Y = 150
+03:52:11 - X = 100
+03:52:11 - Y = 150
+03:52:12 - 
+03:52:12 - --------------------------------------------------------
+03:52:12 - izasao iz idle stanja
+03:52:12 - --------------------------------------------------------
+03:52:12 - 
+03:52:12 - Saljem rezultate cvoru 1100
+03:52:12 - dobili smo fractal id update od 1600 za index 5
+03:52:13 - Saljem rezultate cvoru 1100
+03:52:13 - Saljem rezultate cvoru 1100
+03:52:13 - Saljem rezultate cvoru 1100
+03:52:13 - Saljem rezultate cvoru 1100
+03:52:14 - Saljem rezultate cvoru 1100
+03:52:14 - Saljem rezultate cvoru 1100
+03:52:14 - Saljem rezultate cvoru 1100
+03:52:15 - Saljem rezultate cvoru 1100
+03:52:15 - Saljem rezultate cvoru 1100
+03:52:15 - Saljem rezultate cvoru 1100
+03:52:15 - Saljem rezultate cvoru 1100
+03:52:16 - Saljem rezultate cvoru 1100
+03:52:16 - Saljem rezultate cvoru 1100
+03:52:16 - Saljem rezultate cvoru 1100
+03:52:16 - Saljem rezultate cvoru 1100
+03:52:17 - Saljem rezultate cvoru 1100
+03:52:17 - dobili smo fractal id update od 1700 za index 6
+03:52:17 - FractalId lista na kraju update-a: 
+03:52:17 - 00 - 1100
+03:52:17 - 10 - 1200
+03:52:17 - 20 - 1300
+03:52:17 - 01 - 1400
+03:52:17 - 02 - 1500
+03:52:17 - 11 - 1600
+03:52:17 - 12 - 1700
+03:52:17 - Saljem rezultate cvoru 1100
+03:52:17 - Saljem rezultate cvoru 1100
+03:52:17 - Saljem rezultate cvoru 1100
+03:52:18 - Saljem rezultate cvoru 1100
+03:52:18 - Saljem rezultate cvoru 1100
+03:52:18 - Saljem rezultate cvoru 1100
+03:52:19 - Saljem rezultate cvoru 1100
+03:52:19 - Saljem rezultate cvoru 1100
+03:52:19 - Saljem rezultate cvoru 1100
+03:52:19 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:21 - Saljem rezultate cvoru 1100
+03:52:21 - Saljem rezultate cvoru 1100
+03:52:21 - Saljem rezultate cvoru 1100
+03:52:21 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:23 - Saljem rezultate cvoru 1100
+03:52:23 - Saljem rezultate cvoru 1100
+03:52:23 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:25 - Saljem rezultate cvoru 1100
+03:52:25 - Saljem rezultate cvoru 1100
+03:52:25 - Saljem rezultate cvoru 1100
+03:52:25 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:28 - Saljem rezultate cvoru 1100
+03:52:28 - Saljem rezultate cvoru 1100
+03:52:28 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:30 - Saljem rezultate cvoru 1100
+03:52:30 - Saljem rezultate cvoru 1100
+03:52:30 - Saljem rezultate cvoru 1100
+03:52:30 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:33 - Saljem rezultate cvoru 1100
+03:52:33 - Saljem rezultate cvoru 1100
+03:52:33 - Saljem rezultate cvoru 1100
+03:52:34 - Saljem rezultate cvoru 1100
+03:52:34 - Saljem rezultate cvoru 1100
+03:52:34 - Saljem rezultate cvoru 1100
+03:52:34 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:37 - Saljem rezultate cvoru 1100
+03:52:37 - Saljem rezultate cvoru 1100
+03:52:37 - Saljem rezultate cvoru 1100
+03:52:38 - Saljem rezultate cvoru 1100
+03:52:38 - Saljem rezultate cvoru 1100
+03:52:38 - Saljem rezultate cvoru 1100
+03:52:38 - Saljem rezultate cvoru 1100
+03:52:39 - Saljem rezultate cvoru 1100
+03:52:39 - Saljem rezultate cvoru 1100
+03:52:39 - Stopping...
+03:52:39 - start zavrsen

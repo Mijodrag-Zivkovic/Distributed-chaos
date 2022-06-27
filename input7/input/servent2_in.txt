@@ -1,0 +1,6 @@
+pause 25000
+info
+pause 10000
+start
+pause 30000
+stop

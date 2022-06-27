@@ -1,0 +1,15 @@
+11:13:44 - Bootstrap server started on port: 1800
+11:13:45 - Got hail from 1100
+11:13:45 - Active servants 0
+11:13:48 - Got hail from 1200
+11:13:51 - Got NewNodeMessage from 1100
+11:13:51 - Got hail from 1300
+11:13:54 - Got NewNodeMessage from 1100
+11:13:54 - Got hail from 1400
+11:13:57 - Got NewNodeMessage from 1100
+11:13:58 - Got hail from 1500
+11:14:01 - Got hail from 1600
+11:14:01 - Got NewNodeMessage from 1400
+11:14:03 - Got hail from 1700
+11:14:05 - Got NewNodeMessage from 1300
+11:14:06 - Got NewNodeMessage from 1100

@@ -1,0 +1,47 @@
+11:13:44 - Starting servent [localhost|1100]
+11:13:44 - Pausing for 35000 ms
+11:14:19 - My info: [localhost|1100]
+11:14:19 - Neighbors:
+11:14:19 - 1200 1300 1400 1500 1600 1700 
+11:14:19 - Sve u redu sa komsijama
+11:14:19 - Pausing for 30000 ms
+11:14:19 - start startovan lol
+11:14:19 - prvi sam u fractalId nizu, nice
+11:14:19 - 
+11:14:19 - --------------------------------------------------------
+11:14:19 - izasao iz idle stanja
+11:14:19 - --------------------------------------------------------
+11:14:19 - 
+11:14:23 - dobili smo fractal id update od 1200 za index 1
+11:14:26 - dobili smo fractal id update od 1300 za index 2
+11:14:26 - dodajem nule svima
+11:14:26 - FractalId lista na kraju update-a: 
+11:14:26 - 00 - 1100
+11:14:26 - 10 - 1200
+11:14:26 - 20 - 1300
+11:14:29 - dobili smo fractal id update od 1400 za index 3
+11:14:32 - dobili smo fractal id update od 1500 za index 4
+11:14:32 - FractalId lista na kraju update-a: 
+11:14:32 - 00 - 1100
+11:14:32 - 10 - 1200
+11:14:32 - 20 - 1300
+11:14:32 - 01 - 1400
+11:14:32 - 02 - 1500
+11:14:35 - dobili smo fractal id update od 1600 za index 5
+11:14:39 - dobili smo fractal id update od 1700 za index 6
+11:14:39 - FractalId lista na kraju update-a: 
+11:14:39 - 00 - 1100
+11:14:39 - 10 - 1200
+11:14:39 - 20 - 1300
+11:14:39 - 01 - 1400
+11:14:39 - 02 - 1500
+11:14:39 - 11 - 1600
+11:14:39 - 12 - 1700
+11:14:50 - Pausing for 10000 ms
+11:15:00 - Spremam finalan rezultat----------------------------------------------
+11:15:00 - Pocinjem crtanje svih rezultata------------------------------------------
+11:15:00 - Pausing for 15000 ms
+11:15:03 - Sumnjivi cvor nije odgovorio nakon krace granice
+11:15:13 - Sumnjivi cvor treba da se ugasi
+11:15:15 - Stopping...
+11:15:15 - start zavrsen

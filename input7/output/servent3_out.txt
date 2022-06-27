@@ -1,0 +1,27 @@
+04:49:32 - Starting servent [localhost|1400]
+04:49:32 - Pausing for 20000 ms
+04:49:52 - My info: [localhost|1400]
+04:49:52 - Neighbors:
+04:49:52 - 1200 1100 1300 
+04:49:52 - Pausing for 15000 ms
+04:49:59 - dobili smo fractal id update od 1100 za index 0
+04:50:02 - dobili smo fractal id update od 1200 za index 1
+04:50:05 - dobili smo fractal id update od 1300 za index 2
+04:50:05 - dodajem nule svima
+04:50:05 - FractalId lista na kraju update-a: 
+04:50:05 - 00 - 1100
+04:50:05 - 10 - 1200
+04:50:05 - 20 - 1300
+04:50:07 - Pausing for 30000 ms
+04:50:07 - start startovan lol
+04:50:07 - last fractal Id 0
+04:50:07 - moj fractal id je 01
+04:50:07 - moj fractal index je 3
+04:50:07 - idle sam---------------------------------------
+04:50:07 - Helper 1
+04:50:07 - FractalId lista na kraju starta: 
+04:50:07 - 00 - 1100
+04:50:07 - 10 - 1200
+04:50:07 - 20 - 1300
+04:50:07 - 01 - 1400
+04:50:37 - Stopping...

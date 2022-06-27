@@ -1,0 +1,7 @@
+pause 35000
+info
+start
+pause 30000
+pause 10000
+result
+stop

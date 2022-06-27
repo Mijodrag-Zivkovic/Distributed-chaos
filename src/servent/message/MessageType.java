@@ -1,0 +1,8 @@
+package servent.message;
+
+public enum MessageType {
+    HAIL, NEW_NODE, BOOTSTRAP_REPLY, HAIL_REPLY,
+    UPDATE_FRACTAL_ID,
+    SEND_RESULTS, WAKE_IDLE_NODES,
+    CHECK_NODE, CHECK_NODE_REPLY
+}

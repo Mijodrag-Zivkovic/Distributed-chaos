@@ -1,0 +1,220 @@
+04:49:23 - Starting servent [localhost|1100]
+04:49:23 - Pausing for 35000 ms
+04:49:58 - My info: [localhost|1100]
+04:49:58 - Neighbors:
+04:49:58 - 1200 1300 1400 
+04:49:58 - Pausing for 30000 ms
+04:49:58 - start startovan lol
+04:49:58 - prvi sam u fractalId nizu, nice
+04:49:58 - 
+04:49:58 - --------------------------------------------------------
+04:49:58 - izasao iz idle stanja
+04:49:58 - --------------------------------------------------------
+04:49:58 - 
+04:50:02 - dobili smo fractal id update od 1200 za index 1
+04:50:05 - dobili smo fractal id update od 1300 za index 2
+04:50:05 - dodajem nule svima
+04:50:05 - FractalId lista na kraju update-a: 
+04:50:05 - 00 - 1100
+04:50:05 - 10 - 1200
+04:50:05 - 20 - 1300
+04:50:08 - Stigli rezultati od 1200
+04:50:08 - Stigli rezultati od 1200
+04:50:08 - dobili smo fractal id update od 1400 za index 3
+04:50:08 - Stigli rezultati od 1200
+04:50:08 - Stigli rezultati od 1300
+04:50:08 - Stigli rezultati od 1200
+04:50:09 - Stigli rezultati od 1200
+04:50:09 - Stigli rezultati od 1200
+04:50:09 - Stigli rezultati od 1300
+04:50:09 - Stigli rezultati od 1300
+04:50:09 - Stigli rezultati od 1200
+04:50:09 - Stigli rezultati od 1200
+04:50:09 - Stigli rezultati od 1300
+04:50:09 - Stigli rezultati od 1300
+04:50:10 - Stigli rezultati od 1300
+04:50:10 - Stigli rezultati od 1300
+04:50:10 - Stigli rezultati od 1200
+04:50:10 - Stigli rezultati od 1200
+04:50:10 - Stigli rezultati od 1200
+04:50:10 - Stigli rezultati od 1300
+04:50:11 - Stigli rezultati od 1300
+04:50:11 - Stigli rezultati od 1200
+04:50:11 - Stigli rezultati od 1300
+04:50:11 - Stigli rezultati od 1200
+04:50:11 - Stigli rezultati od 1200
+04:50:11 - Stigli rezultati od 1300
+04:50:11 - Stigli rezultati od 1200
+04:50:12 - Stigli rezultati od 1300
+04:50:12 - Stigli rezultati od 1200
+04:50:12 - Stigli rezultati od 1300
+04:50:12 - Stigli rezultati od 1300
+04:50:12 - Stigli rezultati od 1300
+04:50:12 - Stigli rezultati od 1200
+04:50:12 - Stigli rezultati od 1200
+04:50:12 - Stigli rezultati od 1300
+04:50:12 - Stigli rezultati od 1200
+04:50:13 - Stigli rezultati od 1200
+04:50:13 - Stigli rezultati od 1200
+04:50:13 - Stigli rezultati od 1300
+04:50:13 - Stigli rezultati od 1200
+04:50:13 - Stigli rezultati od 1300
+04:50:13 - Stigli rezultati od 1300
+04:50:13 - Stigli rezultati od 1300
+04:50:14 - Stigli rezultati od 1300
+04:50:14 - Stigli rezultati od 1200
+04:50:14 - Stigli rezultati od 1200
+04:50:14 - Stigli rezultati od 1200
+04:50:14 - Stigli rezultati od 1200
+04:50:14 - Stigli rezultati od 1300
+04:50:14 - Stigli rezultati od 1200
+04:50:14 - Stigli rezultati od 1200
+04:50:14 - Stigli rezultati od 1300
+04:50:15 - Stigli rezultati od 1300
+04:50:15 - Stigli rezultati od 1300
+04:50:15 - Stigli rezultati od 1300
+04:50:15 - Stigli rezultati od 1300
+04:50:15 - Stigli rezultati od 1200
+04:50:15 - Stigli rezultati od 1200
+04:50:15 - Stigli rezultati od 1200
+04:50:16 - Stigli rezultati od 1200
+04:50:16 - Stigli rezultati od 1300
+04:50:16 - Stigli rezultati od 1300
+04:50:16 - Stigli rezultati od 1200
+04:50:16 - Stigli rezultati od 1300
+04:50:16 - Stigli rezultati od 1200
+04:50:16 - Stigli rezultati od 1200
+04:50:17 - Stigli rezultati od 1200
+04:50:17 - Stigli rezultati od 1300
+04:50:17 - Stigli rezultati od 1300
+04:50:17 - Stigli rezultati od 1300
+04:50:17 - Stigli rezultati od 1300
+04:50:17 - Stigli rezultati od 1200
+04:50:17 - Stigli rezultati od 1200
+04:50:18 - Stigli rezultati od 1200
+04:50:18 - Stigli rezultati od 1200
+04:50:18 - Stigli rezultati od 1300
+04:50:18 - Stigli rezultati od 1300
+04:50:18 - Stigli rezultati od 1300
+04:50:18 - Stigli rezultati od 1200
+04:50:18 - Stigli rezultati od 1200
+04:50:18 - Stigli rezultati od 1300
+04:50:19 - Stigli rezultati od 1200
+04:50:19 - Stigli rezultati od 1300
+04:50:19 - Stigli rezultati od 1300
+04:50:19 - Stigli rezultati od 1200
+04:50:19 - Stigli rezultati od 1300
+04:50:19 - Stigli rezultati od 1300
+04:50:20 - Stigli rezultati od 1300
+04:50:20 - Stigli rezultati od 1200
+04:50:20 - Stigli rezultati od 1200
+04:50:20 - Stigli rezultati od 1300
+04:50:20 - Stigli rezultati od 1200
+04:50:20 - Stigli rezultati od 1300
+04:50:20 - Stigli rezultati od 1200
+04:50:20 - Stigli rezultati od 1300
+04:50:20 - Stigli rezultati od 1200
+04:50:20 - Stigli rezultati od 1300
+04:50:21 - Stigli rezultati od 1200
+04:50:21 - Stigli rezultati od 1300
+04:50:21 - Stigli rezultati od 1200
+04:50:21 - Stigli rezultati od 1200
+04:50:21 - Stigli rezultati od 1300
+04:50:21 - Stigli rezultati od 1200
+04:50:21 - Stigli rezultati od 1200
+04:50:22 - Stigli rezultati od 1300
+04:50:22 - Stigli rezultati od 1200
+04:50:22 - Stigli rezultati od 1200
+04:50:22 - Stigli rezultati od 1300
+04:50:22 - Stigli rezultati od 1200
+04:50:22 - Stigli rezultati od 1200
+04:50:22 - Stigli rezultati od 1300
+04:50:22 - Stigli rezultati od 1300
+04:50:23 - Stigli rezultati od 1300
+04:50:23 - Stigli rezultati od 1200
+04:50:23 - Stigli rezultati od 1300
+04:50:23 - Stigli rezultati od 1200
+04:50:23 - Stigli rezultati od 1300
+04:50:23 - Stigli rezultati od 1300
+04:50:23 - Stigli rezultati od 1300
+04:50:24 - Stigli rezultati od 1200
+04:50:24 - Stigli rezultati od 1200
+04:50:24 - Stigli rezultati od 1300
+04:50:24 - Stigli rezultati od 1200
+04:50:24 - Stigli rezultati od 1300
+04:50:24 - Stigli rezultati od 1300
+04:50:24 - Stigli rezultati od 1200
+04:50:24 - Stigli rezultati od 1200
+04:50:24 - Stigli rezultati od 1200
+04:50:24 - Stigli rezultati od 1300
+04:50:25 - Stigli rezultati od 1200
+04:50:25 - Stigli rezultati od 1300
+04:50:25 - Stigli rezultati od 1300
+04:50:26 - Stigli rezultati od 1200
+04:50:26 - Stigli rezultati od 1300
+04:50:26 - Stigli rezultati od 1300
+04:50:26 - Stigli rezultati od 1200
+04:50:26 - Stigli rezultati od 1200
+04:50:26 - Stigli rezultati od 1200
+04:50:26 - Stigli rezultati od 1200
+04:50:26 - Stigli rezultati od 1300
+04:50:26 - Stigli rezultati od 1300
+04:50:26 - Stigli rezultati od 1200
+04:50:26 - Stigli rezultati od 1300
+04:50:27 - Stigli rezultati od 1200
+04:50:27 - Stigli rezultati od 1200
+04:50:27 - Stigli rezultati od 1300
+04:50:27 - Stigli rezultati od 1300
+04:50:27 - Stigli rezultati od 1200
+04:50:27 - Stigli rezultati od 1300
+04:50:27 - Stigli rezultati od 1300
+04:50:28 - Stigli rezultati od 1200
+04:50:28 - Stigli rezultati od 1200
+04:50:28 - Stigli rezultati od 1300
+04:50:28 - Pausing for 10000 ms
+04:50:28 - Stigli rezultati od 1300
+04:50:28 - Stigli rezultati od 1200
+04:50:28 - Stigli rezultati od 1300
+04:50:28 - Stigli rezultati od 1200
+04:50:29 - Stigli rezultati od 1300
+04:50:29 - Stigli rezultati od 1200
+04:50:29 - Stigli rezultati od 1200
+04:50:29 - Stigli rezultati od 1200
+04:50:29 - Stigli rezultati od 1300
+04:50:29 - Stigli rezultati od 1200
+04:50:29 - Stigli rezultati od 1300
+04:50:29 - Stigli rezultati od 1300
+04:50:30 - Stigli rezultati od 1300
+04:50:30 - Stigli rezultati od 1200
+04:50:30 - Stigli rezultati od 1300
+04:50:30 - Stigli rezultati od 1200
+04:50:30 - Stigli rezultati od 1200
+04:50:31 - Stigli rezultati od 1300
+04:50:31 - Stigli rezultati od 1200
+04:50:31 - Stigli rezultati od 1300
+04:50:31 - Stigli rezultati od 1300
+04:50:31 - Stigli rezultati od 1200
+04:50:31 - Stigli rezultati od 1300
+04:50:31 - Stigli rezultati od 1300
+04:50:31 - Stigli rezultati od 1300
+04:50:31 - Stigli rezultati od 1200
+04:50:31 - Stigli rezultati od 1200
+04:50:31 - Stigli rezultati od 1300
+04:50:32 - Stigli rezultati od 1200
+04:50:32 - Stigli rezultati od 1200
+04:50:32 - Stigli rezultati od 1300
+04:50:33 - Stigli rezultati od 1300
+04:50:33 - Stigli rezultati od 1300
+04:50:33 - Stigli rezultati od 1300
+04:50:33 - Stigli rezultati od 1300
+04:50:33 - Stigli rezultati od 1300
+04:50:34 - Stigli rezultati od 1300
+04:50:34 - Stigli rezultati od 1300
+04:50:34 - Stigli rezultati od 1300
+04:50:34 - Stigli rezultati od 1300
+04:50:35 - Stigli rezultati od 1300
+04:50:35 - Stigli rezultati od 1300
+04:50:38 - Spremam finalan rezultat----------------------------------------------
+04:50:38 - Pocinjem crtanje svih rezultata------------------------------------------
+04:50:38 - Stopping...
+04:50:38 - start zavrsen

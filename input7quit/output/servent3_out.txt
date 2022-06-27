@@ -1,0 +1,58 @@
+11:13:53 - Starting servent [localhost|1400]
+11:13:53 - Pausing for 20000 ms
+11:14:13 - My info: [localhost|1400]
+11:14:13 - Neighbors:
+11:14:13 - 1100 1200 1300 1500 1600 1700 
+11:14:13 - Sve u redu sa komsijama
+11:14:13 - Pausing for 15000 ms
+11:14:20 - dobili smo fractal id update od 1100 za index 0
+11:14:23 - dobili smo fractal id update od 1200 za index 1
+11:14:26 - dobili smo fractal id update od 1300 za index 2
+11:14:26 - dodajem nule svima
+11:14:26 - FractalId lista na kraju update-a: 
+11:14:26 - 00 - 1100
+11:14:26 - 10 - 1200
+11:14:26 - 20 - 1300
+11:14:28 - Pausing for 30000 ms
+11:14:28 - start startovan lol
+11:14:28 - last fractal Id 0
+11:14:28 - moj fractal id je 01
+11:14:28 - moj fractal index je 3
+11:14:28 - idle sam---------------------------------------
+11:14:28 - Helper 1
+11:14:28 - FractalId lista na kraju starta: 
+11:14:28 - 00 - 1100
+11:14:28 - 10 - 1200
+11:14:28 - 20 - 1300
+11:14:28 - 01 - 1400
+11:14:33 - dobili smo fractal id update od 1500 za index 4
+11:14:33 - FractalId lista na kraju update-a: 
+11:14:33 - 00 - 1100
+11:14:33 - 10 - 1200
+11:14:33 - 20 - 1300
+11:14:33 - 01 - 1400
+11:14:33 - 02 - 1500
+11:14:33 - Dobio nove koordinate od 1100
+11:14:33 - X = -50
+11:14:33 - Y = 225
+11:14:33 - X = -100
+11:14:33 - Y = 150
+11:14:33 - X = 0
+11:14:33 - Y = 150
+11:14:33 - 
+11:14:33 - --------------------------------------------------------
+11:14:33 - izasao iz idle stanja
+11:14:33 - --------------------------------------------------------
+11:14:33 - 
+11:14:36 - dobili smo fractal id update od 1600 za index 5
+11:14:39 - dobili smo fractal id update od 1700 za index 6
+11:14:39 - FractalId lista na kraju update-a: 
+11:14:39 - 00 - 1100
+11:14:39 - 10 - 1200
+11:14:39 - 20 - 1300
+11:14:39 - 01 - 1400
+11:14:39 - 02 - 1500
+11:14:39 - 11 - 1600
+11:14:39 - 12 - 1700
+11:14:58 - Stopping...
+11:14:58 - start zavrsen

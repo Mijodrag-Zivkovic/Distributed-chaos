@@ -1,0 +1,146 @@
+03:51:37 - Starting servent [localhost|1600]
+03:51:37 - Pausing for 10000 ms
+03:51:47 - My info: [localhost|1600]
+03:51:47 - Neighbors:
+03:51:47 - 1400 1200 1100 1300 1500 1700 
+03:51:47 - Sve u redu sa komsijama
+03:51:47 - Pausing for 25000 ms
+03:51:58 - dobili smo fractal id update od 1100 za index 0
+03:52:01 - dobili smo fractal id update od 1200 za index 1
+03:52:04 - dobili smo fractal id update od 1300 za index 2
+03:52:04 - dodajem nule svima
+03:52:04 - FractalId lista na kraju update-a: 
+03:52:04 - 00 - 1100
+03:52:04 - 10 - 1200
+03:52:04 - 20 - 1300
+03:52:07 - dobili smo fractal id update od 1400 za index 3
+03:52:10 - dobili smo fractal id update od 1500 za index 4
+03:52:10 - FractalId lista na kraju update-a: 
+03:52:10 - 00 - 1100
+03:52:10 - 10 - 1200
+03:52:10 - 20 - 1300
+03:52:10 - 01 - 1400
+03:52:10 - 02 - 1500
+03:52:12 - Pausing for 30000 ms
+03:52:12 - start startovan lol
+03:52:12 - last fractal Id 2
+03:52:12 - moj fractal id je 11
+03:52:12 - moj fractal index je 5
+03:52:12 - idle sam---------------------------------------
+03:52:12 - Helper 1
+03:52:12 - FractalId lista na kraju starta: 
+03:52:12 - 00 - 1100
+03:52:12 - 10 - 1200
+03:52:12 - 20 - 1300
+03:52:12 - 01 - 1400
+03:52:12 - 02 - 1500
+03:52:12 - 11 - 1600
+03:52:17 - dobili smo fractal id update od 1700 za index 6
+03:52:17 - FractalId lista na kraju update-a: 
+03:52:17 - 00 - 1100
+03:52:17 - 10 - 1200
+03:52:17 - 20 - 1300
+03:52:17 - 01 - 1400
+03:52:17 - 02 - 1500
+03:52:17 - 11 - 1600
+03:52:17 - 12 - 1700
+03:52:19 - Dobio nove koordinate od 1200
+03:52:19 - X = -150
+03:52:19 - Y = 75
+03:52:19 - X = -200
+03:52:19 - Y = 0
+03:52:19 - X = -100
+03:52:19 - Y = 0
+03:52:19 - 
+03:52:19 - --------------------------------------------------------
+03:52:19 - izasao iz idle stanja
+03:52:19 - --------------------------------------------------------
+03:52:19 - 
+03:52:19 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:20 - Saljem rezultate cvoru 1100
+03:52:21 - Saljem rezultate cvoru 1100
+03:52:21 - Saljem rezultate cvoru 1100
+03:52:21 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:22 - Saljem rezultate cvoru 1100
+03:52:23 - Saljem rezultate cvoru 1100
+03:52:23 - Saljem rezultate cvoru 1100
+03:52:23 - Saljem rezultate cvoru 1100
+03:52:23 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:24 - Saljem rezultate cvoru 1100
+03:52:25 - Saljem rezultate cvoru 1100
+03:52:25 - Saljem rezultate cvoru 1100
+03:52:25 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:26 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:27 - Saljem rezultate cvoru 1100
+03:52:28 - Saljem rezultate cvoru 1100
+03:52:28 - Saljem rezultate cvoru 1100
+03:52:28 - Saljem rezultate cvoru 1100
+03:52:28 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:29 - Saljem rezultate cvoru 1100
+03:52:30 - Saljem rezultate cvoru 1100
+03:52:30 - Saljem rezultate cvoru 1100
+03:52:30 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:31 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:32 - Saljem rezultate cvoru 1100
+03:52:33 - Saljem rezultate cvoru 1100
+03:52:33 - Saljem rezultate cvoru 1100
+03:52:33 - Saljem rezultate cvoru 1100
+03:52:33 - Saljem rezultate cvoru 1100
+03:52:34 - Saljem rezultate cvoru 1100
+03:52:34 - Saljem rezultate cvoru 1100
+03:52:34 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:35 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:36 - Saljem rezultate cvoru 1100
+03:52:37 - Saljem rezultate cvoru 1100
+03:52:37 - Saljem rezultate cvoru 1100
+03:52:37 - Saljem rezultate cvoru 1100
+03:52:37 - Saljem rezultate cvoru 1100
+03:52:38 - Saljem rezultate cvoru 1100
+03:52:38 - Saljem rezultate cvoru 1100
+03:52:38 - Saljem rezultate cvoru 1100
+03:52:39 - Saljem rezultate cvoru 1100
+03:52:39 - Saljem rezultate cvoru 1100
+03:52:39 - Saljem rezultate cvoru 1100
+03:52:39 - Saljem rezultate cvoru 1100
+03:52:40 - Saljem rezultate cvoru 1100
+03:52:40 - Saljem rezultate cvoru 1100
+03:52:40 - Saljem rezultate cvoru 1100
+03:52:40 - Saljem rezultate cvoru 1100
+03:52:41 - Saljem rezultate cvoru 1100
+03:52:41 - Saljem rezultate cvoru 1100
+03:52:41 - Saljem rezultate cvoru 1100
+03:52:41 - Saljem rezultate cvoru 1100
+03:52:42 - Saljem rezultate cvoru 1100
+03:52:42 - Saljem rezultate cvoru 1100
+03:52:42 - Stopping...
+03:52:42 - start zavrsen
